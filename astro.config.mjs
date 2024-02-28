@@ -1,4 +1,8 @@
 import { defineConfig } from 'astro/config';
+import graphql from '@rollup/plugin-graphql';
 
-// https://astro.build/config
-export default defineConfig({});
+export default defineConfig({
+  vite: {
+    plugins: [graphql()],
+  }
+});

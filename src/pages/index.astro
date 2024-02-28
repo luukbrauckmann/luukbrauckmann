@@ -1,4 +1,10 @@
 ---
+import { datocms } from "@lib"
+import query from "./index.graphql"
+
+const { data } = await datocms.request(query)
+
+console.log(data);
 
 ---
 

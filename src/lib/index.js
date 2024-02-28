@@ -1,1 +1,1 @@
-export { default as DatoCMS } from "./datocms";
+export * as datocms from "./datocms";

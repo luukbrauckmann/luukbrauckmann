@@ -6,7 +6,7 @@ import { print } from "graphql";
  * @param {*} variables 
  * @returns {Promise<*>} 
  */
-export async function request(query, variables) {
+export async function request(query, variables = {}) {
   const response = await fetch("https://graphql.datocms.com/", {
     method: "POST",
     headers: {
