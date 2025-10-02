@@ -28,6 +28,10 @@ Currently building inclusive web experiences at [De Voorhoede](https://www.voorh
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Design Tokens](https://img.shields.io/badge/Design_Tokens-000000?style=for-the-badge&logo=json&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FF6600?style=for-the-badge&logo=bunnycdn&logoColor=white)
 <!--
 **luukbrauckmann/luukbrauckmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
