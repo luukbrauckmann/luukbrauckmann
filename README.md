@@ -42,12 +42,19 @@ PostNL's Design System with React, Angular and Web Components.
 ## 🎯 Things I like
 
 - 💻 Programming  
-- 🎨 Pure HTML & CSS solutions
+- 🎨 Pure HTML & CSS solutions  
 - ☕ Coffee  
 - 🍷 Wine  
 - 🍺 Beer  
 - 🍝 Italian food  
-- 🏡 Home-lab & self-hosting
+- 🐈 Cats  
+- 🏡 Home-lab & self-hosting  
+- 🧱 LEGO  
+
+## 🧭 My Philosophy
+
+I don't just go for this or that framework.  
+I aim to use the least powerful tool required to do the job.
 
 ## 🔍 Currently exploring
 
