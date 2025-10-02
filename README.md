@@ -56,7 +56,4 @@ I aim to use the least powerful tool required to do the job.
 
 ## 🔍 Currently exploring
 
-- 🇪🇺 European alternatives for hosting, services and tools  
-- 📱 Cross-platform app frameworks
-- 🎨 Advanced design token workflows
-- 📦 Smarter self-hosting setups
+- 🇪🇺 European alternatives for hosting, services and tools
