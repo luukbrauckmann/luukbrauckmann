@@ -57,3 +57,8 @@ I aim to use the least powerful tool required to do the job.
 ## 🔍 Currently exploring
 
 - 🇪🇺 European alternatives for hosting, services and tools
+
+## 💬 Quotes
+
+> "This is for everyone."  
+— Tim Berners-Lee
