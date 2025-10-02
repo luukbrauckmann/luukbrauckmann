@@ -57,6 +57,6 @@ I aim to use the least powerful tool required to do the job.
 ## 🔍 Currently exploring
 
 - 🇪🇺 European alternatives for hosting, services and tools  
-- 📱 Cross-platform app frameworks (Tauri, React Native, Electron)  
-- 🎨 Advanced design token workflows (OKLCH, P3 color spaces)  
-- 📦 Smarter self-hosting setups (VPN, proxies, NAS efficiency)  
+- 📱 Cross-platform app frameworks
+- 🎨 Advanced design token workflows
+- 📦 Smarter self-hosting setups
