@@ -38,3 +38,13 @@ PostNL's Design System with React, Angular and Web Components.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![BunnyCDN](https://img.shields.io/badge/BunnyCDN-FF6600?style=for-the-badge&logo=bunnycdn&logoColor=white)
+
+## 🎯 Things I like
+
+- 💻 Programming  
+- 🎨 Pure HTML & CSS solutions
+- ☕ Coffee  
+- 🍷 Wine  
+- 🍺 Beer  
+- 🍝 Italian food  
+- 🏡 Home-lab & self-hosting  
