@@ -61,4 +61,10 @@ I aim to use the least powerful tool required to do the job.
 ## 💬 Quotes
 
 > "This is for everyone."  
-— Tim Berners-Lee
+— Tim Berners-Lee  
+
+> "The Internet is for everyone — but it won’t be unless we make it so."  
+— Vinton Cerf  
+
+> "Code is like humor. When you have to explain it, it’s bad."  
+— Cory House
