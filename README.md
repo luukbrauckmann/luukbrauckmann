@@ -47,4 +47,11 @@ PostNL's Design System with React, Angular and Web Components.
 - 🍷 Wine  
 - 🍺 Beer  
 - 🍝 Italian food  
-- 🏡 Home-lab & self-hosting  
+- 🏡 Home-lab & self-hosting
+
+## 🔍 Currently exploring
+
+- 🇪🇺 European alternatives for hosting, services and tools  
+- 📱 Cross-platform app frameworks (Tauri, React Native, Electron)  
+- 🎨 Advanced design token workflows (OKLCH, P3 color spaces)  
+- 📦 Smarter self-hosting setups (VPN, proxies, NAS efficiency)  
