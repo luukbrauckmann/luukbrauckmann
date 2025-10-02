@@ -1,7 +1,7 @@
 # Hi 👋
 
 Hi, I'm Luuk — a frontend developer from the Netherlands.  
-Currently building better web experiences at [De Voorhoede](https://voorhoede.nl/).
+Currently building better web experiences at [De Voorhoede](https://www.voorhoede.nl/).
 <!--
 **luukbrauckmann/luukbrauckmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
