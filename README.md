@@ -47,9 +47,7 @@ PostNL's Design System with React, Angular and Web Components.
 - 🍷 Wine  
 - 🍺 Beer  
 - 🍝 Italian food  
-- 🐈 Cats  
 - 🏡 Home-lab & self-hosting  
-- 🧱 LEGO  
 
 ## 🧭 My Philosophy
 
